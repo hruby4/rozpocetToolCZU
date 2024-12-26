@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\showbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\showbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\showbudget.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\showbudget.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\showbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\showbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\listbudgets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\listbudgets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\listbudgets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\listbudgets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\listbudgets.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\listbudgets.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\createbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\createbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\createbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\createbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\config\\config.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\config\\config.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|c:\\users\\hkuba\\desktop\\projects\\rozpocettool\\rozpocettool-main\\omega\\src\\createbudget.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\createbudget.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\src\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\src\\codemanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\codemanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\src\\regexvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\regexvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\src\\passwordmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\passwordmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\src\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\src\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\src\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\omega\\src\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3F117D2-F993-4154-B326-D30634154D73}|Omega\\Omega.csproj|solutionrelative:omega\\src\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowBudget.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ShowBudget.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\ShowBudget.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ShowBudget.cs",
+              "RelativeToolTip": "Omega\\src\\ShowBudget.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAhwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:00:44.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListBudgets.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ListBudgets.Designer.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\ListBudgets.Designer.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ListBudgets.Designer.cs",
+              "RelativeToolTip": "Omega\\src\\ListBudgets.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgv4UAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:11:26.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Registration.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\Registration.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Registration.cs",
+              "RelativeToolTip": "Omega\\src\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:09:04.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateBudget.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\CreateBudget.Designer.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\CreateBudget.Designer.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\CreateBudget.Designer.cs",
+              "RelativeToolTip": "Omega\\src\\CreateBudget.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:59:53.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowBudget.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ShowBudget.Designer.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\ShowBudget.Designer.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ShowBudget.Designer.cs",
+              "RelativeToolTip": "Omega\\src\\ShowBudget.Designer.cs",
+              "ViewState": "AQIAAGgBAAAAAAAAAAAhwIMBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:56:10.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListBudgets.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ListBudgets.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\ListBudgets.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ListBudgets.cs",
+              "RelativeToolTip": "Omega\\src\\ListBudgets.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAADgv0MAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:14:51.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Registration.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\Registration.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Registration.cs [Design]",
+              "RelativeToolTip": "Omega\\src\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:07:37.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegexValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\RegexValidator.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\RegexValidator.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\RegexValidator.cs",
+              "RelativeToolTip": "Omega\\src\\RegexValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:07:34.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Product.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\Product.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Product.cs",
+              "RelativeToolTip": "Omega\\src\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:07:24.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PasswordManipulator.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\PasswordManipulator.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\PasswordManipulator.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\PasswordManipulator.cs",
+              "RelativeToolTip": "Omega\\src\\PasswordManipulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:07:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ConfigReader.cs",
+              "RelativeToolTip": "Omega\\src\\ConfigReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:06:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Login.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\Login.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Login.cs",
+              "RelativeToolTip": "Omega\\src\\Login.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAewCgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:54:07.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Budget.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\Budget.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Budget.cs",
+              "RelativeToolTip": "Omega\\src\\Budget.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:41:06.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowBudget.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ShowBudget.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\ShowBudget.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ShowBudget.cs [Design]",
+              "RelativeToolTip": "Omega\\src\\ShowBudget.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:57:15.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListBudgets.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ListBudgets.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\ListBudgets.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\ListBudgets.cs [Design]",
+              "RelativeToolTip": "Omega\\src\\ListBudgets.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:57:12.635Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\DatabaseConnection.cs",
+              "RelativeToolTip": "Omega\\src\\DatabaseConnection.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:46:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Program.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\Program.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Program.cs",
+              "RelativeToolTip": "Omega\\src\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:03:49.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBudget.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\CreateBudget.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\CreateBudget.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\CreateBudget.cs",
+              "RelativeToolTip": "Omega\\src\\CreateBudget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:02:26.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateBudget.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\CreateBudget.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\CreateBudget.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\CreateBudget.cs [Design]",
+              "RelativeToolTip": "Omega\\src\\CreateBudget.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:02:06.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "config.conf",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\config\\config.conf",
+              "RelativeDocumentMoniker": "Omega\\config\\config.conf",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\config\\config.conf",
+              "RelativeToolTip": "Omega\\config\\config.conf",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T15:39:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Login.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\Login.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\Login.cs [Design]",
+              "RelativeToolTip": "Omega\\src\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:32:58.777Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CodeManipulator.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\CodeManipulator.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\CodeManipulator.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\CodeManipulator.cs",
+              "RelativeToolTip": "Omega\\src\\CodeManipulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:32:59.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\User.cs",
+              "RelativeDocumentMoniker": "Omega\\src\\User.cs",
+              "ToolTip": "C:\\Users\\hkuba\\Desktop\\Projects\\rozpocetTool\\RozpocetTool-main\\Omega\\src\\User.cs",
+              "RelativeToolTip": "Omega\\src\\User.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAIwBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:32:59.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
